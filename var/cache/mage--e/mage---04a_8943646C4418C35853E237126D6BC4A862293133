@@ -1,0 +1,64 @@
+<div class="footer-static-container">
+    <div class="container">
+        <div class="footer-static row">
+                    </div>
+        <div class="footer-static-2">
+            <div class="link-category">
+                <ul>
+                                                            <li><a href="http://127.0.0.1/appsco/aplicacion/magento/lacteos.html" title="lacteos">lacteos</a></li>
+                                        <li><a href="http://127.0.0.1/appsco/aplicacion/magento/alimentos-refrigerados.html" title="alimentos refrigerados">alimentos refrigerados</a></li>
+                                        <li><a href="http://127.0.0.1/appsco/aplicacion/magento/articulos-hogar.html" title="articulos hogar">articulos hogar</a></li>
+                                        <li><a href="http://127.0.0.1/appsco/aplicacion/magento/aseo-hogar.html" title="aseo hogar">aseo hogar</a></li>
+                                        <li><a href="http://127.0.0.1/appsco/aplicacion/magento/bebes.html" title="bebes">bebes</a></li>
+                                        <li><a href="http://127.0.0.1/appsco/aplicacion/magento/bebidas.html" title="bebidas">bebidas</a></li>
+                                        <li><a href="http://127.0.0.1/appsco/aplicacion/magento/carnes.html" title="carnes">carnes</a></li>
+                                        <li><a href="http://127.0.0.1/appsco/aplicacion/magento/carnes-frias.html" title="carnes frias">carnes frias</a></li>
+                                        <li><a href="http://127.0.0.1/appsco/aplicacion/magento/charcuteria.html" title="charcuteria">charcuteria</a></li>
+                                        <li><a href="http://127.0.0.1/appsco/aplicacion/magento/confiteria-y-galleteria.html" title="confiteria y galleteria">confiteria y galleteria</a></li>
+                                        <li><a href="http://127.0.0.1/appsco/aplicacion/magento/congelados.html" title="congelados">congelados</a></li>
+                                        <li><a href="http://127.0.0.1/appsco/aplicacion/magento/cuidado-hogar.html" title="cuidado hogar">cuidado hogar</a></li>
+                                        <li><a href="http://127.0.0.1/appsco/aplicacion/magento/cuidado-personal.html" title="cuidado personal">cuidado personal</a></li>
+                                        <li><a href="http://127.0.0.1/appsco/aplicacion/magento/despensa.html" title="despensa">despensa</a></li>
+                                        <li><a href="http://127.0.0.1/appsco/aplicacion/magento/ferreteria.html" title="ferreteria">ferreteria</a></li>
+                                        <li><a href="http://127.0.0.1/appsco/aplicacion/magento/frutas-y-verduras.html" title="frutas y verduras">frutas y verduras</a></li>
+                                        <li><a href="http://127.0.0.1/appsco/aplicacion/magento/licores-y-cigarrilos.html" title="licores y cigarrilos">licores y cigarrilos</a></li>
+                                        <li><a href="http://127.0.0.1/appsco/aplicacion/magento/mascotas.html" title="mascotas">mascotas</a></li>
+                                        <li><a href="http://127.0.0.1/appsco/aplicacion/magento/panaderia.html" title="panaderia">panaderia</a></li>
+                                        <li><a href="http://127.0.0.1/appsco/aplicacion/magento/pasabocas.html" title="pasabocas">pasabocas</a></li>
+                                        <li><a href="http://127.0.0.1/appsco/aplicacion/magento/rancho.html" title="rancho">rancho</a></li>
+                                    </ul>
+            </div>
+                    </div>
+        
+        
+    </div>
+</div>
+<div class="ma-footer-container">
+    <div class="container">
+        <div class="footer">
+            <div class="store-switcher">
+    <label for="select-store">Select Store:</label>
+    <select id="select-store" title="Select Store" onchange="location.href=this.value">
+                        <option value="http://127.0.0.1/appsco/aplicacion/magento/?___store=mercado_euro">euro</option>
+                    <option value="http://127.0.0.1/appsco/aplicacion/magento/?___store=mercado_olimpico">olimpico</option>
+                    <option value="" selected="selected">supermercado boom</option>
+        </select>
+</div>
+
+<ul>
+    <li><a href="http://127.0.0.1/appsco/aplicacion/magento/about-magento-demo-store">About Us</a></li>
+    <li><a href="http://127.0.0.1/appsco/aplicacion/magento/customer-service">Customer Service</a></li>
+<li class="last privacy"><a href="http://127.0.0.1/appsco/aplicacion/magento/privacy-policy-cookie-restriction-mode">Privacy Policy</a></li>
+</ul><ul class="links">
+                        <li class="first" ><a href="http://127.0.0.1/appsco/aplicacion/magento/catalog/seo_sitemap/category/?___SID=U" title="Site Map" >Site Map</a></li>
+                                <li ><a href="http://127.0.0.1/appsco/aplicacion/magento/catalogsearch/term/popular/?___SID=U" title="Search Terms" >Search Terms</a></li>
+                                <li ><a href="http://127.0.0.1/appsco/aplicacion/magento/catalogsearch/advanced/?___SID=U" title="Advanced Search" >Advanced Search</a></li>
+                                <li ><a href="http://127.0.0.1/appsco/aplicacion/magento/sales/guest/form/?___SID=U" title="Orders and Returns" >Orders and Returns</a></li>
+                                <li class=" last" ><a href="http://127.0.0.1/appsco/aplicacion/magento/contacts/?___SID=U" title="Contact Us" >Contact Us</a></li>
+            </ul>
+    
+            <address>&copy; 2014 Magento Demo Store. All Rights Reserved.</address>
+            <div id="back-top" class="hidden-xs"></div>
+        </div>
+    </div>
+</div>

@@ -1,0 +1,66 @@
+<div class="block block-layered-nav">
+    <div class="block-title">
+        <strong><span>Browse By</span></strong>
+    </div>
+    <div class="block-content">
+        <dl id="narrow-by-list2">
+            <dt>Category</dt>
+            <dd>
+                <ol>
+                                                        <li>
+                        <a href="http://127.0.0.1/appsco/aplicacion/magento/alimentos-refrigerados/arepas.html">arepas</a> (9)
+                    </li>
+                                                                            <li>
+                        <a href="http://127.0.0.1/appsco/aplicacion/magento/alimentos-refrigerados/avenas.html">avenas</a> (9)
+                    </li>
+                                                                            <li>
+                        <a href="http://127.0.0.1/appsco/aplicacion/magento/alimentos-refrigerados/crema-de-leche-pasteurizada.html">crema de leche pasteurizada</a> (6)
+                    </li>
+                                                                            <li>
+                        <a href="http://127.0.0.1/appsco/aplicacion/magento/alimentos-refrigerados/cuajadas.html">cuajadas</a> (9)
+                    </li>
+                                                                            <li>
+                        <a href="http://127.0.0.1/appsco/aplicacion/magento/alimentos-refrigerados/huevos-de-codorniz.html">huevos de codorniz</a> (1)
+                    </li>
+                                                                            <li>
+                        <a href="http://127.0.0.1/appsco/aplicacion/magento/alimentos-refrigerados/huevos-de-gallina.html">huevos de gallina</a> (9)
+                    </li>
+                                                                            <li>
+                        <a href="http://127.0.0.1/appsco/aplicacion/magento/alimentos-refrigerados/jugos-y-nectares-refrigerados.html">jugos y nectares refrigerados</a> (9)
+                    </li>
+                                                                            <li>
+                        <a href="http://127.0.0.1/appsco/aplicacion/magento/alimentos-refrigerados/kumis.html">kumis</a> (9)
+                    </li>
+                                                                            <li>
+                        <a href="http://127.0.0.1/appsco/aplicacion/magento/alimentos-refrigerados/leche-fresca.html">leche fresca</a> (9)
+                    </li>
+                                                                            <li>
+                        <a href="http://127.0.0.1/appsco/aplicacion/magento/alimentos-refrigerados/margarinas-y-mantequillas.html">margarinas y mantequillas</a> (9)
+                    </li>
+                                                                            <li>
+                        <a href="http://127.0.0.1/appsco/aplicacion/magento/alimentos-refrigerados/mazamorras.html">mazamorras</a> (1)
+                    </li>
+                                                                            <li>
+                        <a href="http://127.0.0.1/appsco/aplicacion/magento/alimentos-refrigerados/postres-refrigerados.html">postres refrigerados</a> (9)
+                    </li>
+                                                                            <li>
+                        <a href="http://127.0.0.1/appsco/aplicacion/magento/alimentos-refrigerados/quesitos.html">quesitos</a> (9)
+                    </li>
+                                                                            <li>
+                        <a href="http://127.0.0.1/appsco/aplicacion/magento/alimentos-refrigerados/queso-crema.html">queso crema</a> (9)
+                    </li>
+                                                                            <li>
+                        <a href="http://127.0.0.1/appsco/aplicacion/magento/alimentos-refrigerados/quesos.html">quesos</a> (9)
+                    </li>
+                                                                            <li>
+                        <a href="http://127.0.0.1/appsco/aplicacion/magento/alimentos-refrigerados/salsas-y-aderezos-refrigerados.html">salsas y aderezos refrigerados</a> (7)
+                    </li>
+                                                                            <li>
+                        <a href="http://127.0.0.1/appsco/aplicacion/magento/alimentos-refrigerados/yogurt.html">yogurt</a> (9)
+                    </li>
+                                                    </ol>
+            </dd>
+        </dl>
+        <script type="text/javascript">decorateDataList('narrow-by-list2')</script>
+    </div>
+</div>
